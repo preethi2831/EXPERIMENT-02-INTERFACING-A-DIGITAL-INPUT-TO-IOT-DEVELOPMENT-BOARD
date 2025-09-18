@@ -142,7 +142,8 @@ OBJECT NOT DEDUCTED:
 
 OBJECT DEDUCTED:
 
-<img width="695" height="863" alt="image" src="https://github.com/user-attachments/assets/14822717-21b5-40fd-87c8-84e0dc60a1bc" />
+<img width="572" height="1280" alt="image" src="https://github.com/user-attachments/assets/b2667bc7-5f50-49c5-86cc-7a8861085f62" />
+
 
 ## Result
 
